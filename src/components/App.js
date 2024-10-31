@@ -12,10 +12,8 @@ const App = () => {
             <div>
                 {/* Do not remove the main div */}
                 <Display />
-                <div>
-                    <Increment />
-                    <Decrement />
-                </div>
+                <Increment />
+                <Decrement />
             </div>
         </Provider>
     )

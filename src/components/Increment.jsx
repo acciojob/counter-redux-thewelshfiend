@@ -6,7 +6,7 @@ const Increment = () => {
     const dispatch = useDispatch();
 
     return (
-        <button onClick={() => dispatch(increment())}>Increment</button>
+        <button onClick={() => dispatch(increment())}>increment</button>
     )
 }
 

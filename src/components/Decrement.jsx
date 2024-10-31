@@ -16,7 +16,7 @@ const Decrement = () => {
             }
 
             dispatch(decrement())
-        }}>Decrement</button>
+        }}>decrement</button>
     )
 }
 
