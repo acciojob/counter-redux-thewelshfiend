@@ -7,7 +7,7 @@ const Display = () => {
     })
 
     return (
-        <h1 id='display'>Count: {count}</h1>
+        <h1 id='display'>{count}</h1>
     )
 }
 
